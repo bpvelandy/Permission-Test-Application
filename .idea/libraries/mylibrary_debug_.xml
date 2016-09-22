@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mylibrary-debug-">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aarpermissionapp/build/intermediates/exploded-aar/mylibrary-debug/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/aarpermissionapp/build/intermediates/exploded-aar/mylibrary-debug/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
